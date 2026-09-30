@@ -1,0 +1,1 @@
+Me gustaría aprender a como integrar IA a varios proyectos además de aprender a utilizar Docker, ya que solo lo vimos poco y no estoy muy seguro de entenderlo por completo.
